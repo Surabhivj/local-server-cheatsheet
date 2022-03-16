@@ -4,7 +4,6 @@
 
 ```
 ssh username@server_address
-password
 ```
 **Copy files from local machine to server**
 
