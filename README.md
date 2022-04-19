@@ -11,7 +11,7 @@ ssh username@server_address
 scp -r folder_name username@server_address:/target_directory
 ```
 
-**Download folder from local machine to server**
+**Download folder from server to local machine**
 
 ```
 scp -r username@server_address:/target_directory /local/dir
