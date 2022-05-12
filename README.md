@@ -32,5 +32,11 @@ rm -r dirname
 rm filename 
 ```
 
+**List files in directory with details**
+```
+ls -lh
+ls -l
+ls (with out details)
+```
 
 
